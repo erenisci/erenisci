@@ -138,7 +138,7 @@
 
 <td valign="top" align="center" width="50%" style="border: none;">
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=erenisci&theme=onedark&row=2&column=3&no-frame=true&margin-w=20&margin-h=5" alt="GitHub Trophies" width="390"/>
+<img src="https://github-profile-trophy.vercel.app/?username=erenisci&theme=dark_lover&row=2&column=3&no-frame=true&margin-w=20&margin-h=5" alt="GitHub Trophies" width="390"/>
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
