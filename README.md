@@ -11,9 +11,10 @@
 
 ### My Stack
 
-<table border="0" cellspacing="0" cellpadding="0">
+<table align="center" border="0" cellspacing="0" cellpadding="0" style="border: none; background: transparent; width: 100%;">
+
 <tr>
-<td align="center" width="50%">
+<td align="center" width="50%" valign="top" style="padding: 0 10px;">
 
 <h4>💬 Programming Languages</h4>
 <p>
@@ -28,7 +29,9 @@
 <img src="https://img.shields.io/badge/C%23-239120">
 <img src="https://img.shields.io/badge/Java-ED8B00">
 </p>
-<div style="height: 16px;"></div>
+
+<div style="height: 12px;"></div>
+
 <h4>⚙️ Backend & Databases</h4>
 <p>
 <img src="https://img.shields.io/badge/Node.js-339933">
@@ -43,7 +46,9 @@
 <img src="https://img.shields.io/badge/ElasticSearch-005571">
 <img src="https://img.shields.io/badge/Supabase-3FCF8E">
 </p>
-<div style="height: 16px;"></div>
+
+<div style="height: 12px;"></div>
+
 <h4>🧠 Machine Learning & AI</h4>
 <p>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00">
@@ -64,9 +69,9 @@
 </p>
 
 </td>
-<td align="center" width="50%" valign="top">
 
-<div style="margin-bottom: 2rem;">
+<td align="center" width="50%" valign="top" style="padding: 0 10px;">
+
 <h4>🎨 Frontend & Mobile</h4>
 <p>
 <img src="https://img.shields.io/badge/React-61DAFB">
@@ -77,10 +82,9 @@
 <img src="https://img.shields.io/badge/Figma-F24E1E">
 <img src="https://img.shields.io/badge/Photoshop-31A8FF">
 </p>
-</div>
-<div style="height: 28px;"></div>
 
-<div style="margin-bottom: 1.5rem;">
+<div style="height: 38px;"></div>
+
 <h4>☁️ Cloud, DevOps & CI/CD</h4>
 <p>
 <img src="https://img.shields.io/badge/AWS-232F3E">
@@ -91,22 +95,20 @@
 <img src="https://img.shields.io/badge/Kubernetes-326CE5">
 <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF">
 </p>
-</div>
-<div style="height: 7px;"></div>
 
-<div>
+<div style="height: 14px;"></div>
+
 <h4>🔌 Embedded & Hardware</h4>
 <p>
 <img src="https://img.shields.io/badge/Arduino-00979D">
 <img src="https://img.shields.io/badge/ESP32-000000">
 </p>
-</div>
 
 </td>
-
 </tr>
+
 <tr>
-<td colspan="2" align="center" style="border: none; padding-top: 1rem;">
+<td colspan="2" align="center" style="border: none; padding-top: 12px;">
 <h4>🧰 Tools & Others</h4>
 <p>
 <img src="https://img.shields.io/badge/Git-F05032">
@@ -120,40 +122,38 @@
 </p>
 </td>
 </tr>
+
 </table>
 
 ---
 
 ### My Stats
 
-<div style="display: flex; gap: 1.2rem; justify-content: center; flex-wrap: wrap;">
+<table align="center" style="border: none; width: 100%; border-collapse: collapse;">
+<tr>
+<!-- Sol sütun -->
+<td valign="top" align="center" width="50%" style="border: none; padding: 1rem;">
+<a href="https://www.codewars.com/users/erenisci">
+<img src="https://www.codewars.com/users/erenisci/badges/large" alt="CodeWars Badge" width="300" />
+</a>
+<br/>
+<a href="https://leetcode.com/u/erenisci/">
+<img src="https://leetcard.jacoblin.cool/erenisci?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode Stats" width="400" />
+</a>
+</td>
 
-  <div style="display: flex; flex-direction: column; gap: 0.2rem; align-items: center;">
-
-  <a href="https://www.codewars.com/users/erenisci">
-    <img src="https://www.codewars.com/users/erenisci/badges/large" alt="CodeWars Badge" width="300" />
-  </a>
-
-  <a href="https://leetcode.com/u/erenisci/">
-    <img src="https://leetcard.jacoblin.cool/erenisci?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode Stats" width="400" />
-  </a>
-
-  </div>
-
-  <div style="display: flex; flex-direction: column; gap: 0.2rem; align-items: center;">
-
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erenisci&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="300"  />
-
-  </a>
-
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=erenisci&theme=dark&hide_border=true" alt="GitHub Streak" width="400" />
-  </a>
-
-  </div>
-
-</div>
+<!-- Sağ sütun -->
+<td valign="top" align="center" width="50%" style="border: none; padding: 1rem;">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erenisci&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="300" />
+</a>
+<br/>
+<a href="https://git.io/streak-stats">
+<img src="https://streak-stats.demolab.com?user=erenisci&theme=dark&hide_border=true" alt="GitHub Streak" width="400" />
+</a>
+</td>
+</tr>
+</table>
 
 ---
 
