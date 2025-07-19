@@ -155,6 +155,12 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-erenisci-blue)](https://www.linkedin.com/in/erenisci/) [![Email](https://img.shields.io/badge/Email-isci.eren%40gmail.com-lightgrey)](mailto:isci.eren@gmail.com)
+<a href="https://www.linkedin.com/in/erenisci/">
+  <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" style="margin-right:10px;" />
+</a>
+
+<a href="mailto:isci.eren@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
+</a>
 
 </div>
