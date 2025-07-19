@@ -14,7 +14,7 @@
 <table align="center" border="0" cellspacing="0" cellpadding="0" style="border: none; background: transparent; width: 100%;">
 
 <tr>
-<td align="center" width="50%" valign="top" style="padding: 0 10px;">
+<td align="center" width="50%" valign="top" style="padding: 0 10px; background: transparent; border: none;">
 
 <h4>💬 Programming Languages</h4>
 <p>
@@ -70,7 +70,7 @@
 
 </td>
 
-<td align="center" width="50%" valign="top" style="padding: 0 10px;">
+<td align="center" width="50%" valign="top" style="padding: 0 10px; background: transparent; border: none;">
 
 <h4>🎨 Frontend & Mobile</h4>
 <p>
@@ -107,7 +107,7 @@
 </td>
 </tr>
 
-<tr>
+<tr style="border: none; background: transparent;">
 <td colspan="2" align="center" style="border: none; padding-top: 12px;">
 <h4>🧰 Tools & Others</h4>
 <p>
