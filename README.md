@@ -139,7 +139,7 @@
 <!-- Sağ sütun -->
 <td valign="top" align="center" width="50%" style="border: none; padding: 1rem;">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erenisci&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="300" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erenisci&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="230" />
 </a>
 <br/>
 <a href="https://git.io/streak-stats">
