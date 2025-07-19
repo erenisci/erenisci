@@ -11,11 +11,10 @@
 
 ### My Stack
 
-<div style="display: flex; flex-direction: column; align-items: center;">
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td align="center" width="50%">
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 0.2rem 2.2rem; max-width: 1000px;">
-
-<div style="flex: 1 1 45%; max-width: 450px; min-width: 350px; text-align: center;">
 <h4>💬 Programming Languages</h4>
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26">
@@ -29,22 +28,7 @@
 <img src="https://img.shields.io/badge/C%23-239120">
 <img src="https://img.shields.io/badge/Java-ED8B00">
 </p>
-</div>
-
-<div style="flex: 1 1 45%; max-width: 450px; min-width: 350px; text-align: center;">
-<h4>🎨 Frontend & Mobile</h4>
-<p>
-<img src="https://img.shields.io/badge/React-61DAFB">
-<img src="https://img.shields.io/badge/Redux-764ABC">
-<img src="https://img.shields.io/badge/Next.js-000000">
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC">
-<img src="https://img.shields.io/badge/Flutter-02569B">
-<img src="https://img.shields.io/badge/Figma-F24E1E">
-<img src="https://img.shields.io/badge/Photoshop-31A8FF">
-</p>
-</div>
-
-<div style="flex: 1 1 45%; max-width: 450px; min-width: 350px; text-align: center;">
+<div style="height: 16px;"></div>
 <h4>⚙️ Backend & Databases</h4>
 <p>
 <img src="https://img.shields.io/badge/Node.js-339933">
@@ -59,22 +43,7 @@
 <img src="https://img.shields.io/badge/ElasticSearch-005571">
 <img src="https://img.shields.io/badge/Supabase-3FCF8E">
 </p>
-</div>
-
-<div style="flex: 1 1 45%; max-width: 450px; min-width: 350px; text-align: center;">
-<h4>☁️ Cloud, DevOps & CI/CD</h4>
-<p>
-<img src="https://img.shields.io/badge/AWS-232F3E">
-<img src="https://img.shields.io/badge/Google%20Cloud-4285F4">
-<img src="https://img.shields.io/badge/Heroku-430098">
-<img src="https://img.shields.io/badge/Netlify-00C7B7">
-<img src="https://img.shields.io/badge/Docker-2496ED">
-<img src="https://img.shields.io/badge/Kubernetes-326CE5">
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF">
-</p>
-</div>
-
-<div style="flex: 1 1 45%; max-width: 450px; min-width: 350px; text-align: center;">
+<div style="height: 16px;"></div>
 <h4>🧠 Machine Learning & AI</h4>
 <p>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00">
@@ -93,9 +62,39 @@
 <img src="https://img.shields.io/badge/RAG%20Pipelines-0F9D58">
 <img src="https://img.shields.io/badge/ChromaDB-4285F4">
 </p>
-</div>
 
-<div style="flex: 1 1 45%; max-width: 450px; min-width: 350px; text-align: center;">
+</td>
+<td align="center" width="50%" valign="top">
+
+<div style="margin-bottom: 2rem;">
+<h4>🎨 Frontend & Mobile</h4>
+<p>
+<img src="https://img.shields.io/badge/React-61DAFB">
+<img src="https://img.shields.io/badge/Redux-764ABC">
+<img src="https://img.shields.io/badge/Next.js-000000">
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC">
+<img src="https://img.shields.io/badge/Flutter-02569B">
+<img src="https://img.shields.io/badge/Figma-F24E1E">
+<img src="https://img.shields.io/badge/Photoshop-31A8FF">
+</p>
+</div>
+<div style="height: 28px;"></div>
+
+<div style="margin-bottom: 1.5rem;">
+<h4>☁️ Cloud, DevOps & CI/CD</h4>
+<p>
+<img src="https://img.shields.io/badge/AWS-232F3E">
+<img src="https://img.shields.io/badge/Google%20Cloud-4285F4">
+<img src="https://img.shields.io/badge/Heroku-430098">
+<img src="https://img.shields.io/badge/Netlify-00C7B7">
+<img src="https://img.shields.io/badge/Docker-2496ED">
+<img src="https://img.shields.io/badge/Kubernetes-326CE5">
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF">
+</p>
+</div>
+<div style="height: 7px;"></div>
+
+<div>
 <h4>🔌 Embedded & Hardware</h4>
 <p>
 <img src="https://img.shields.io/badge/Arduino-00979D">
@@ -103,9 +102,11 @@
 </p>
 </div>
 
-</div>
+</td>
 
-<div style="text-align: center; margin-top: 0.2rem;">
+</tr>
+<tr>
+<td colspan="2" align="center" style="border: none; padding-top: 1rem;">
 <h4>🧰 Tools & Others</h4>
 <p>
 <img src="https://img.shields.io/badge/Git-F05032">
@@ -117,24 +118,24 @@
 <img src="https://img.shields.io/badge/Postman-FF6C37">
 <img src="https://img.shields.io/badge/VS%20Code-007ACC">
 </p>
-</div>
-
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
 ### My Stats
 
-<div style="display: flex; gap: 2.2rem; justify-content: center; flex-wrap: wrap;">
+<div style="display: flex; gap: 1.2rem; justify-content: center; flex-wrap: wrap;">
 
   <div style="display: flex; flex-direction: column; gap: 0.2rem; align-items: center;">
 
   <a href="https://www.codewars.com/users/erenisci">
-    <img src="https://www.codewars.com/users/erenisci/badges/large" alt="CodeWars Badge" width="390" />
+    <img src="https://www.codewars.com/users/erenisci/badges/large" alt="CodeWars Badge" width="300" />
   </a>
 
   <a href="https://leetcode.com/u/erenisci/">
-    <img src="https://leetcard.jacoblin.cool/erenisci?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode Stats" width="500" />
+    <img src="https://leetcard.jacoblin.cool/erenisci?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode Stats" width="400" />
   </a>
 
   </div>
@@ -142,12 +143,12 @@
   <div style="display: flex; flex-direction: column; gap: 0.2rem; align-items: center;">
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erenisci&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="331"  />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erenisci&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="300"  />
 
   </a>
 
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=erenisci&theme=dark&hide_border=true" alt="GitHub Streak" width="450" />
+    <img src="https://streak-stats.demolab.com?user=erenisci&theme=dark&hide_border=true" alt="GitHub Streak" width="400" />
   </a>
 
   </div>
