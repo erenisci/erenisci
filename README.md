@@ -30,8 +30,6 @@
 <img src="https://img.shields.io/badge/Java-ED8B00">
 </p>
 
-<div style="height: 12px;"></div>
-
 <h4>⚙️ Backend & Databases</h4>
 <p>
 <img src="https://img.shields.io/badge/Node.js-339933">
@@ -46,8 +44,6 @@
 <img src="https://img.shields.io/badge/ElasticSearch-005571">
 <img src="https://img.shields.io/badge/Supabase-3FCF8E">
 </p>
-
-<div style="height: 12px;"></div>
 
 <h4>🧠 Machine Learning & AI</h4>
 <p>
@@ -73,7 +69,7 @@
 <td align="center" width="50%" valign="top" style="padding: 0 10px; background: transparent; border: none;">
 
 <h4>🎨 Frontend & Mobile</h4>
-<p>
+<p style="margin-bottom: 45px">
 <img src="https://img.shields.io/badge/React-61DAFB">
 <img src="https://img.shields.io/badge/Redux-764ABC">
 <img src="https://img.shields.io/badge/Next.js-000000">
@@ -82,8 +78,6 @@
 <img src="https://img.shields.io/badge/Figma-F24E1E">
 <img src="https://img.shields.io/badge/Photoshop-31A8FF">
 </p>
-
-<div style="height: 38px;"></div>
 
 <h4>☁️ Cloud, DevOps & CI/CD</h4>
 <p>
