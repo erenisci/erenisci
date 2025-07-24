@@ -147,7 +147,7 @@
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erenisci&layout=compact&theme=dark&hide_border=true&langs_count=10&card_width=385&hide=Jupyter%20Notebook" alt="Top Languages" width="400" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erenisci&layout=compact&theme=dark&hide_border=true&langs_count=10&card_width=385&hide=Jupyter%20Notebook" alt="Top Languages" width="400" />
 </a>
 
 </td>
@@ -159,11 +159,11 @@
 ### Contact
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/erenisci/">
-    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" />
-  </a>
-  &nbsp;
-  <a href="mailto:isci.eren@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
-  </a>
+<a href="https://www.linkedin.com/in/erenisci/" target="_blank">
+<img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn Badge" style="display:inline-block; text-decoration:none; border:none;" />
+</a>
+&nbsp;
+<a href="mailto:isci.eren@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail Badge" style="display:inline-block; text-decoration:none; border:none;" />
+</a>
 </p>
