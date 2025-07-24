@@ -159,7 +159,7 @@
 ### Contact
 
 <p align="center">
-<a href="https://www.linkedin.com/in/erenisci/" target="_blank">
+<a href="https://www.linkedin.com/in/erenisci/" target="_blank" style="display:inline-block; text-decoration:none; border:none;">
 <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn Badge" style="display:inline-block; text-decoration:none; border:none;" />
 </a>
 &nbsp;
