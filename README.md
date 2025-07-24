@@ -158,11 +158,12 @@
 
 ### Contact
 
-<div align="center" style="font-size: 0;">
-  <a href="https://www.linkedin.com/in/erenisci/" style="text-decoration:none; border:none;">
-    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" style="margin: 0 2px; display: inline-block;" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/erenisci/">
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" />
   </a>
-  <a href="mailto:isci.eren@gmail.com" style="text-decoration:none; border:none;">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" style="margin: 0 2px; display: inline-block;" />
+  &nbsp;
+  <a href="mailto:isci.eren@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
   </a>
-</div>
+</p>
