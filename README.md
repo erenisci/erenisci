@@ -2,49 +2,34 @@
 
 ### About Me
 
-- 🎓 Graduated in 2025 from Ostim Technical University with high honours, earning a degree in Software Engineering.
-- I build **full-stack applications** – from frontend to backend, including mobile development.
-- I enjoy **solving challenging problems** and writing clean, maintainable code.
-- Currently learning more about **machine learning, deep learning, artificial intelligence, computer vision, and natural language processing**, exploring how these can be applied to real-world projects.
+- 🎓 Ostim Technical University, Class of 2025 — Graduated with _High Honours_ in Software Engineering.
+- **Full-stack developer**, experienced in building scalable web, mobile, and backend systems.
+- Focused on writing **clean, maintainable, and efficient code** while delivering practical solutions.
+- Actively expanding my expertise in **machine learning, deep learning, computer vision, and natural language processing**, applying these technologies to real-world applications.
+- Interested in **solving complex problems**, learning cutting-edge tools, and contributing to innovative projects.
 
 ---
 
-### My Stack
+### Tech Stack & Tools
 
 <table align="center" border="0" cellspacing="0" cellpadding="0" style="border: none; background: transparent; width: 100%;">
 
 <tr>
-<td align="center" width="50%" valign="top" style="padding: 0 10px; background: transparent; border: none;">
-
+<td align="center" width="50%" valign="top" style="padding: 0 10px;">
 <h4>💬 Programming Languages</h4>
 <p>
-<img src="https://img.shields.io/badge/HTML5-E34F26">
-<img src="https://img.shields.io/badge/CSS3-1572B6">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E">
 <img src="https://img.shields.io/badge/TypeScript-3178C6">
 <img src="https://img.shields.io/badge/Python-3776AB">
-<img src="https://img.shields.io/badge/Dart-0175C2">
+<img src="https://img.shields.io/badge/Java-ED8B00">
 <img src="https://img.shields.io/badge/C-00599C">
 <img src="https://img.shields.io/badge/C++-00599C">
 <img src="https://img.shields.io/badge/C%23-239120">
-<img src="https://img.shields.io/badge/Java-ED8B00">
+<img src="https://img.shields.io/badge/Dart-0175C2">
 </p>
+</td>
 
-<h4>⚙️ Backend & Databases</h4>
-<p>
-<img src="https://img.shields.io/badge/Node.js-339933">
-<img src="https://img.shields.io/badge/Express-000000">
-<img src="https://img.shields.io/badge/Django-092E20">
-<img src="https://img.shields.io/badge/FastAPI-009688">
-<img src="https://img.shields.io/badge/MongoDB-47A248">
-<img src="https://img.shields.io/badge/PostgreSQL-336791">
-<img src="https://img.shields.io/badge/MySQL-4479A1">
-<img src="https://img.shields.io/badge/SQLite-003B57">
-<img src="https://img.shields.io/badge/Redis-DC382D">
-<img src="https://img.shields.io/badge/ElasticSearch-005571">
-<img src="https://img.shields.io/badge/Supabase-3FCF8E">
-</p>
-
+<td align="center" width="50%" valign="top" style="padding: 0 10px;">
 <h4>🧠 Machine Learning & AI</h4>
 <p>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00">
@@ -55,31 +40,34 @@
 <img src="https://img.shields.io/badge/NumPy-013243">
 <img src="https://img.shields.io/badge/Matplotlib-11557C">
 <img src="https://img.shields.io/badge/Seaborn-4C72B0">
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E">
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8">
-<img src="https://img.shields.io/badge/LangChain-2E8B57">
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E">
 <img src="https://img.shields.io/badge/Transformers-FF9900">
-<img src="https://img.shields.io/badge/LLM%20Fine--Tuning-1F8ACB">
-<img src="https://img.shields.io/badge/RAG%20Pipelines-0F9D58">
+<img src="https://img.shields.io/badge/LangChain-2E8B57">
 <img src="https://img.shields.io/badge/ChromaDB-4285F4">
 </p>
-
 </td>
+</tr>
 
-<td align="center" width="50%" valign="top" style="padding: 0 10px; background: transparent; border: none;">
-
+<tr>
+<td align="center" width="50%" valign="top" style="padding: 0 10px;">
 <h4>🎨 Frontend & Mobile</h4>
-<p style="margin-bottom: 45px">
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26">
+<img src="https://img.shields.io/badge/CSS3-1572B6">
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC">
 <img src="https://img.shields.io/badge/React-61DAFB">
 <img src="https://img.shields.io/badge/Redux-764ABC">
 <img src="https://img.shields.io/badge/Next.js-000000">
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC">
+<img src="https://img.shields.io/badge/React%20Native-61DAFB">
 <img src="https://img.shields.io/badge/Flutter-02569B">
 <img src="https://img.shields.io/badge/Figma-F24E1E">
 <img src="https://img.shields.io/badge/Photoshop-31A8FF">
 </p>
+</td>
 
-<h4>☁️ Cloud, DevOps & CI/CD</h4>
+<td align="center" width="50%" valign="top" style="padding: 0 10px;">
+<h4>☁️ Cloud & DevOps</h4>
 <p>
 <img src="https://img.shields.io/badge/AWS-232F3E">
 <img src="https://img.shields.io/badge/Google%20Cloud-4285F4">
@@ -89,20 +77,38 @@
 <img src="https://img.shields.io/badge/Kubernetes-326CE5">
 <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF">
 </p>
+</td>
+</tr>
 
-<div style="height: 14px;"></div>
+<tr>
+<td align="center" width="50%" valign="top" style="padding: 0 10px;">
+<h4>⚙️ Backend & Databases</h4>
+<p>
+<img src="https://img.shields.io/badge/Node.js-339933">
+<img src="https://img.shields.io/badge/Express-000000">
+<img src="https://img.shields.io/badge/Django-092E20">
+<img src="https://img.shields.io/badge/FastAPI-009688">
+<img src="https://img.shields.io/badge/MongoDB-47A248">
+<img src="https://img.shields.io/badge/PostgreSQL-336791">
+<img src="https://img.shields.io/badge/MySQL-4479A1">
+<img src="https://img.shields.io/badge/SQLite-003B57">
+<img src="https://img.shields.io/badge/Supabase-3FCF8E">
+<img src="https://img.shields.io/badge/Redis-DC382D">
+<img src="https://img.shields.io/badge/ElasticSearch-005571">
+</p>
+</td>
 
+<td align="center" width="50%" valign="top" style="padding: 0 10px;">
 <h4>🔌 Embedded & Hardware</h4>
 <p>
 <img src="https://img.shields.io/badge/Arduino-00979D">
 <img src="https://img.shields.io/badge/ESP32-000000">
 </p>
-
 </td>
 </tr>
 
-<tr style="border: none; background: transparent;">
-<td colspan="2" align="center" style="border: none; padding-top: 12px;">
+<tr>
+<td colspan="2" align="center" style="padding: 0 10px;">
 <h4>🧰 Tools & Others</h4>
 <p>
 <img src="https://img.shields.io/badge/Git-F05032">
@@ -116,12 +122,11 @@
 </p>
 </td>
 </tr>
-
 </table>
 
 ---
 
-### My Stats
+### Stats
 
 <table align="center" style="border: none; width: 100%; border-collapse: collapse;">
 <tr>
@@ -151,16 +156,16 @@
 
 ---
 
-### Contact Me
+### Contact
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/erenisci/">
-  <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" style="margin-right:10px;" />
+<a href="https://www.linkedin.com/in/erenisci/" style="text-decoration:none; border:none; display:inline-block; margin-right: 2px;">
+  <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"/>
 </a>
 
-<a href="mailto:isci.eren@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
+<a href="mailto:isci.eren@gmail.com" style="text-decoration:none; border:none; display:inline-block; margin-left: 2px;">
+  <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/>
 </a>
 
 </div>
