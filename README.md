@@ -128,26 +128,26 @@
 
 ### Stats
 
-<table align="center" style="border: none; width: 100%; border-collapse: collapse;">
+<table align="center" style="width: 100%;">
 <tr>
-<td valign="top" align="center" width="50%" style="border: none;">
+<td valign="top" align="center" width="50%">
 <a>
-<img src="https://leetcard.jacoblin.cool/erenisci?theme=dark&font=JetBrains%20Mono&border=0&radius=8&ext=heatmap" alt="LeetCode Heatmap" style="max-width: 100%; min-width: 300px; height: auto;" />
+<img src="https://leetcard.jacoblin.cool/erenisci?theme=dark&font=JetBrains%20Mono&border=0&radius=8&ext=heatmap" alt="LeetCode Heatmap" width="400" />
 </a>
 
 <a href="https://git.io/streak-stats">
-<img src="https://streak-stats.demolab.com?user=erenisci&theme=dark&hide_border=true" alt="GitHub Streak" style="max-width: 100%; min-width: 300px; height: auto;" />
+<img src="https://streak-stats.demolab.com?user=erenisci&theme=dark&hide_border=true" alt="GitHub Streak" width="400" />
 </a>
 
 </td>
 
-<td valign="top" align="center" width="50%" style="border: none;">
+<td valign="top" align="center" width="50%">
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=erenisci&theme=dark_lover&row=2&column=4&no-frame=true&margin-w=10&margin-h=6" alt="GitHub Trophies" style="max-width: 100%; min-width: 300px; height: auto;" />
+<img src="https://github-profile-trophy.vercel.app/?username=erenisci&theme=dark_lover&row=2&column=4&no-frame=true&margin-w=10&margin-h=6" alt="GitHub Trophies" width="384"/>
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erenisci&layout=compact&theme=dark&hide_border=true&langs_count=10&card_width=385&hide=Jupyter%20Notebook" alt="Top Languages" style="max-width: 100%; min-width: 300px; height: auto;" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erenisci&layout=compact&theme=dark&hide_border=true&langs_count=10&card_width=385&hide=Jupyter%20Notebook" alt="Top Languages" width="400" />
 </a>
 
 </td>
