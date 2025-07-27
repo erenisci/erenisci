@@ -2,11 +2,11 @@
 
 ### About Me
 
-- 🎓 Ostim Technical University, Class of 2025 — Graduated with _High Honours_ in Software Engineering.
-- **Full-stack developer**, experienced in building scalable web, mobile, and backend systems.
-- Focused on writing **clean, maintainable, and efficient code** while delivering practical solutions.
-- Actively expanding my expertise in **machine learning, deep learning, computer vision, and natural language processing**, applying these technologies to real-world applications.
-- Interested in **solving complex problems**, learning cutting-edge tools, and contributing to innovative projects.
+- 🎓 OSTIM Technical University, Class of 2025 — Graduated with _High Honors_ in Software Engineering
+- **Full-stack developer** with experience in building scalable web, mobile, and backend systems
+- Dedicated to writing **clean, maintainable, and efficient code** while delivering practical, real-world solutions
+- Continuously expanding my skills in **machine learning, deep learning, computer vision, and natural language processing**, with a focus on applying them to impactful use cases
+- Passionate about **solving complex problems**, exploring cutting-edge technologies, and contributing to innovative projects
 
 ---
 
