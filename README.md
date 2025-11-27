@@ -86,6 +86,7 @@
 <p>
 <img src="https://img.shields.io/badge/Node.js-339933">
 <img src="https://img.shields.io/badge/Express-000000">
+<img src="https://img.shields.io/badge/NestJS-E0234E">
 <img src="https://img.shields.io/badge/Django-092E20">
 <img src="https://img.shields.io/badge/FastAPI-009688">
 <img src="https://img.shields.io/badge/MongoDB-47A248">
@@ -95,6 +96,8 @@
 <img src="https://img.shields.io/badge/Supabase-3FCF8E">
 <img src="https://img.shields.io/badge/Redis-DC382D">
 <img src="https://img.shields.io/badge/ElasticSearch-005571">
+<img src="https://img.shields.io/badge/Hive-FF6F00">
+<img src="https://img.shields.io/badge/Isar-3949AB">
 </p>
 </td>
 
