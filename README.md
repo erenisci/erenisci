@@ -25,7 +25,6 @@
 <img src="https://img.shields.io/badge/Java-ED8B00">
 <img src="https://img.shields.io/badge/C-A8B9CC">
 <img src="https://img.shields.io/badge/C++-00599C">
-<img src="https://img.shields.io/badge/C%23-512BD4">
 </p>
 </td>
 
@@ -35,8 +34,8 @@
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00">
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C">
 <img src="https://img.shields.io/badge/Scikit--learn-F7931E">
-<img src="https://img.shields.io/badge/Pandas-150458">
 <img src="https://img.shields.io/badge/NumPy-013243">
+<img src="https://img.shields.io/badge/Pandas-150458">
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8">
 <img src="https://img.shields.io/badge/Matplotlib-11557C">
 <img src="https://img.shields.io/badge/Seaborn-4C72B0">
@@ -81,10 +80,9 @@
 <img src="https://img.shields.io/badge/FastAPI-009688">
 <img src="https://img.shields.io/badge/MongoDB-47A248">
 <img src="https://img.shields.io/badge/PostgreSQL-336791">
-<img src="https://img.shields.io/badge/Redis-DC382D">
 <img src="https://img.shields.io/badge/MySQL-4479A1">
 <img src="https://img.shields.io/badge/SQLite-003B57">
-<img src="https://img.shields.io/badge/Supabase-3FCF8E">
+<img src="https://img.shields.io/badge/Redis-DC382D">
 <img src="https://img.shields.io/badge/ElasticSearch-005571">
 </p>
 </td>
