@@ -37,9 +37,9 @@
 <img src="https://img.shields.io/badge/Scikit--learn-F7931E">
 <img src="https://img.shields.io/badge/Pandas-150458">
 <img src="https://img.shields.io/badge/NumPy-013243">
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8">
 <img src="https://img.shields.io/badge/Matplotlib-11557C">
 <img src="https://img.shields.io/badge/Seaborn-4C72B0">
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8">
 </p>
 </td>
 </tr>
@@ -59,11 +59,12 @@
 <td align="center" width="50%" valign="top" style="padding: 0 10px;">
 <h4>☁️ Cloud & DevOps</h4>
 <p>
+<img src="https://img.shields.io/badge/Linux-FCC624">
 <img src="https://img.shields.io/badge/AWS-FF9900">
+<img src="https://img.shields.io/badge/Google%20Cloud-1A73E8">
 <img src="https://img.shields.io/badge/Docker-0DB7ED">
 <img src="https://img.shields.io/badge/Kubernetes-2F6FE4">
 <img src="https://img.shields.io/badge/GitHub%20Actions-24292E">
-<img src="https://img.shields.io/badge/Google%20Cloud-1A73E8">
 <img src="https://img.shields.io/badge/Netlify-14F1D9">
 <img src="https://img.shields.io/badge/Vercel-111111"> 
 </p>
