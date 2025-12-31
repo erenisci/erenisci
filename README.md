@@ -2,12 +2,12 @@
 
 ### About Me
 
-- 🎓 OSTIM Technical University, Class of 2025 — Graduated with _High Honors_ in Software Engineering
-- **Full-stack developer (MERN + TypeScript)** focused on designing and shipping scalable, production-grade web and backend systems
-- Strong background in **Python backend development** and applied **machine learning, computer vision, and NLP** in real-world systems
-- Experienced in building **end-to-end systems** that span cloud backends, web/mobile frontends, and embedded devices
-- Dedicated to writing **clean, maintainable, and efficient code** with an engineering-first mindset
-- Passionate about **solving complex problems**, exploring system-level details, and turning ideas into real, working products
+- 🎓 OSTIM Technical University — BSc in Software Engineering, _High Honors_ (2025)
+- Full-stack developer (MERN + TypeScript) focused on designing and shipping scalable, production-grade web and backend systems
+- Strong background in Python backend development and applied machine learning, computer vision, and NLP in real-world systems
+- Experienced in building end-to-end systems that span cloud backends, web/mobile frontends, and embedded devices
+- Dedicated to writing clean, maintainable, and efficient code with an engineering-first mindset
+- Passionate about solving complex problems, exploring system-level details, and turning ideas into real, working products
 
 ---
 
