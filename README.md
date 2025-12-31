@@ -62,8 +62,6 @@
 <img src="https://img.shields.io/badge/AWS-FF9900">
 <img src="https://img.shields.io/badge/Google%20Cloud-1A73E8">
 <img src="https://img.shields.io/badge/Docker-0DB7ED">
-<img src="https://img.shields.io/badge/Kubernetes-2F6FE4">
-<img src="https://img.shields.io/badge/GitHub%20Actions-24292E">
 <img src="https://img.shields.io/badge/Netlify-14F1D9">
 <img src="https://img.shields.io/badge/Vercel-111111"> 
 </p>
