@@ -5,10 +5,10 @@ Focused on backend architecture, API design, and applied ML.
 
 ### Tech Stack
 
-<table width="100%">
+<table align="center" border="0" cellspacing="0" cellpadding="0" style="border: none; background: transparent; width: 100%;">
 
 <tr>
-<td align="center" width="50%" valign="top">
+<td align="center" width="50%" valign="top" style="padding: 0 10px;">
 <h4>Languages</h4>
 <p>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E">
@@ -17,7 +17,7 @@ Focused on backend architecture, API design, and applied ML.
 </p>
 </td>
 
-<td align="center" width="50%" valign="top">
+<td align="center" width="50%" valign="top" style="padding: 0 10px;">
 <h4>Frontend & Mobile</h4>
 <p>
 <img src="https://img.shields.io/badge/React-61DAFB">
@@ -32,7 +32,7 @@ Focused on backend architecture, API design, and applied ML.
 </tr>
 
 <tr>
-<td align="center" width="50%" valign="top">
+<td align="center" width="50%" valign="top" style="padding: 0 10px;">
 <h4>Backend</h4>
 <p>
 <img src="https://img.shields.io/badge/Node.js-339933">
@@ -41,7 +41,7 @@ Focused on backend architecture, API design, and applied ML.
 </p>
 </td>
 
-<td align="center" width="50%" valign="top">
+<td align="center" width="50%" valign="top" style="padding: 0 10px;">
 <h4>Databases & Storage</h4>
 <p>
 <img src="https://img.shields.io/badge/MongoDB-47A248">
@@ -56,7 +56,7 @@ Focused on backend architecture, API design, and applied ML.
 </tr>
 
 <tr>
-<td align="center" width="50%" valign="top">
+<td align="center" width="50%" valign="top" style="padding: 0 10px;">
 <h4>AI & ML</h4>
 <p>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00">
@@ -66,7 +66,7 @@ Focused on backend architecture, API design, and applied ML.
 </p>
 </td>
 
-<td align="center" width="50%" valign="top">
+<td align="center" width="50%" valign="top" style="padding: 0 10px;">
 <h4>Cloud & DevOps</h4>
 <p>
 <img src="https://img.shields.io/badge/Docker-0DB7ED">
