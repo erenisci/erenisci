@@ -8,6 +8,7 @@ Focused on backend architecture, API design, and applied ML — I ship end-to-en
 <table align="center" border="0" cellspacing="0" cellpadding="0" style="border: none; background: transparent; width: 100%;">
 
 <tr>
+
 <td align="center" width="50%" valign="top" style="padding: 0 10px;">
 <h4>Languages</h4>
 <p>
@@ -29,9 +30,11 @@ Focused on backend architecture, API design, and applied ML — I ship end-to-en
 <img src="https://img.shields.io/badge/Zustand-433E38">
 </p>
 </td>
+
 </tr>
 
 <tr>
+
 <td align="center" width="50%" valign="top" style="padding: 0 10px;">
 <h4>Backend</h4>
 <p>
@@ -53,9 +56,11 @@ Focused on backend architecture, API design, and applied ML — I ship end-to-en
 <img src="https://img.shields.io/badge/Firebase-DD2C00">
 </p>
 </td>
+
 </tr>
 
 <tr>
+
 <td align="center" width="50%" valign="top" style="padding: 0 10px;">
 <h4>AI & ML</h4>
 <p>
@@ -75,6 +80,7 @@ Focused on backend architecture, API design, and applied ML — I ship end-to-en
 <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF">
 </p>
 </td>
+
 </tr>
 
 </table>
