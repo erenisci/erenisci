@@ -1,12 +1,11 @@
-Full-stack developer (MERN + TypeScript) building scalable web and AI-powered systems.
-Focused on backend architecture, API design, and applied ML.
+Full-stack software engineer (MERN + TypeScript) building web, mobile, and AI-powered systems.
+Focused on backend architecture, API design, and applied ML — I ship end-to-end, from system design to production.
 
 ---
 
 ### Tech Stack
 
 <table align="center" border="0" cellspacing="0" cellpadding="0" style="border: none; background: transparent; width: 100%;">
-
 <tr>
 <td align="center" width="50%" valign="top" style="padding: 0 10px;">
 <h4>Languages</h4>
@@ -76,5 +75,4 @@ Focused on backend architecture, API design, and applied ML.
 </p>
 </td>
 </tr>
-
 </table>
