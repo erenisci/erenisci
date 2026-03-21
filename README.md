@@ -5,7 +5,7 @@ Focused on backend architecture, API design, and applied ML.
 
 ### Tech Stack
 
-<table>
+<table width="100%">
 
 <tr>
 <td align="center" width="50%" valign="top">
