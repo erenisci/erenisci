@@ -13,6 +13,9 @@ Focused on backend architecture, API design, and applied ML — I ship end-to-en
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E">
 <img src="https://img.shields.io/badge/TypeScript-3178C6">
 <img src="https://img.shields.io/badge/Python-3776AB">
+<img src="https://img.shields.io/badge/Go-00ADD8">
+<img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C">
+<img src="https://img.shields.io/badge/Dart-0175C2">
 </p>
 </td>
 
@@ -21,6 +24,7 @@ Focused on backend architecture, API design, and applied ML — I ship end-to-en
 <p>
 <img src="https://img.shields.io/badge/React-61DAFB">
 <img src="https://img.shields.io/badge/Next.js-000000">
+<img src="https://img.shields.io/badge/Angular-DD0031">
 <img src="https://img.shields.io/badge/TailwindCSS-06B6D4">
 <img src="https://img.shields.io/badge/React%20Native-20232A">
 <img src="https://img.shields.io/badge/Expo-000020">
@@ -37,6 +41,9 @@ Focused on backend architecture, API design, and applied ML — I ship end-to-en
 <img src="https://img.shields.io/badge/Node.js-339933">
 <img src="https://img.shields.io/badge/Express-000000">
 <img src="https://img.shields.io/badge/FastAPI-009688">
+<img src="https://img.shields.io/badge/Flask-000000">
+<img src="https://img.shields.io/badge/Deno-70FFAF">
+<img src="https://img.shields.io/badge/WebSockets-010101">
 </p>
 </td>
 
@@ -46,6 +53,8 @@ Focused on backend architecture, API design, and applied ML — I ship end-to-en
 <img src="https://img.shields.io/badge/MongoDB-47A248">
 <img src="https://img.shields.io/badge/PostgreSQL-336791">
 <img src="https://img.shields.io/badge/MySQL-4479A1">
+<img src="https://img.shields.io/badge/SQLite-003B57">
+<img src="https://img.shields.io/badge/Elasticsearch-005571">
 <img src="https://img.shields.io/badge/ChromaDB-FF6446">
 <img src="https://img.shields.io/badge/Redis-DC382D">
 <img src="https://img.shields.io/badge/Supabase-3FCF8E">
@@ -58,6 +67,10 @@ Focused on backend architecture, API design, and applied ML — I ship end-to-en
 <td align="center" width="50%" valign="top" style="padding: 0 10px;">
 <h4>AI & ML</h4>
 <p>
+<img src="https://img.shields.io/badge/Claude%20API-D97757">
+<img src="https://img.shields.io/badge/Gemini%20API-8E75B2">
+<img src="https://img.shields.io/badge/LangChain-1C3C3C">
+<img src="https://img.shields.io/badge/RAG-4B8BBE">
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00">
 <img src="https://img.shields.io/badge/Keras-D00000">
 <img src="https://img.shields.io/badge/Scikit--learn-F7931E">
