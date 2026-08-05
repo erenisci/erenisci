@@ -24,7 +24,6 @@ Focused on backend architecture, API design, and applied ML — I ship end-to-en
 <p>
 <img src="https://img.shields.io/badge/React-61DAFB">
 <img src="https://img.shields.io/badge/Next.js-000000">
-<img src="https://img.shields.io/badge/Angular-DD0031">
 <img src="https://img.shields.io/badge/TailwindCSS-06B6D4">
 <img src="https://img.shields.io/badge/React%20Native-20232A">
 <img src="https://img.shields.io/badge/Expo-000020">
@@ -40,9 +39,10 @@ Focused on backend architecture, API design, and applied ML — I ship end-to-en
 <p>
 <img src="https://img.shields.io/badge/Node.js-339933">
 <img src="https://img.shields.io/badge/Express-000000">
+<img src="https://img.shields.io/badge/Deno-70FFAF">
 <img src="https://img.shields.io/badge/FastAPI-009688">
 <img src="https://img.shields.io/badge/Flask-000000">
-<img src="https://img.shields.io/badge/Deno-70FFAF">
+<img src="https://img.shields.io/badge/Prisma-2D3748">
 <img src="https://img.shields.io/badge/WebSockets-010101">
 </p>
 </td>
@@ -80,8 +80,10 @@ Focused on backend architecture, API design, and applied ML — I ship end-to-en
 <h4>Cloud & DevOps</h4>
 <p>
 <img src="https://img.shields.io/badge/Docker-0DB7ED">
+<img src="https://img.shields.io/badge/Nginx-009639">
 <img src="https://img.shields.io/badge/Linux-FCC624">
 <img src="https://img.shields.io/badge/AWS-FF9900">
+<img src="https://img.shields.io/badge/Cloudflare-F38020">
 <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF">
 </p>
 </td>
