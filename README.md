@@ -67,8 +67,6 @@ Focused on backend architecture, API design, and applied ML — I ship end-to-en
 <td align="center" width="50%" valign="top" style="padding: 0 10px;">
 <h4>AI & ML</h4>
 <p>
-<img src="https://img.shields.io/badge/Claude%20API-D97757">
-<img src="https://img.shields.io/badge/Gemini%20API-8E75B2">
 <img src="https://img.shields.io/badge/LangChain-1C3C3C">
 <img src="https://img.shields.io/badge/RAG-4B8BBE">
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00">
